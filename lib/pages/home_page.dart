@@ -12,7 +12,7 @@ class HomePage extends StatelessWidget {
     return 
     Scaffold(
       appBar: AppBar(
-        title: Text("Cataloge App"),
+        title: Text("Catalog App"),
       ),
       body: Center(
           child: Container(child: Text("Welcome to the flutter series"))),
